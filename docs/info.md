@@ -13,4 +13,5 @@
 ### flakes
 
 - made repo on https://github.com/despiegk/nixosplay
+- https://mynixos.com/ looks interesting but don't know how to use yet
 
