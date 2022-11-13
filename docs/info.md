@@ -9,3 +9,8 @@
 
 - https://github.com/nix-community/nur-packages-template seems to be the way to easily add our own packages
 - https://determinate.systems/posts/nix-run
+
+### flakes
+
+- made repo on https://github.com/despiegk/nixosplay
+
